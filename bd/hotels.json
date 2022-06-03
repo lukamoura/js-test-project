@@ -1,0 +1,18 @@
+{
+    "hotels" : [
+      {
+        "name": "Parque das flores",
+        "prices": {
+          "regular": {
+            "week": 110,
+            "weekend": 90
+          },
+          "fidelity": {
+            "week": 80,
+            "weekend": 80
+          }
+        },
+        "rating": 3
+      }      
+    ]
+}
